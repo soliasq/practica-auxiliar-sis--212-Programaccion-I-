@@ -1,0 +1,8 @@
+Luisa,Miranda,68
+Luisa,Miranda,99
+Jean,Paul Munoz,54
+GianFRanco,Basso,54
+GianFRanco,Basso,54
+Romina,Smith,100
+Romina,Smith,98
+Romina,Smith,92

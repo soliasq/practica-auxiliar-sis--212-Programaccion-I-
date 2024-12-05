@@ -1,0 +1,7 @@
+Nota1 Esteban ,Gutierrez,49
+Esteban ,Gutierrez,18
+Esteban ,Gutierrez,32
+Luisa,Miranda,44
+Nota1 Jean,Paul Munoz,48
+Jean,Paul Munoz,50
+GianFRanco,Basso,50
